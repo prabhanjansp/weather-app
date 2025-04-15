@@ -111,15 +111,5 @@ Use React DevTools for state inspection
 ![alt text](Favorite.png)
 
 📜 License
-MIT © 2023 prabhanjan
+MIT © 2025 prabhanjan👨🏻‍💻
 
-🛣️ Roadmap
-Add radar maps integration
-
-Implement air quality index
-
-Add precipitation probability charts
-
-🌟 Pro Tip: Run npm run build for production-optimized bundle!
-
-Note: Replace placeholder values (API keys, GitHub links) with your actual project details.
