@@ -1,8 +1,10 @@
 # 🌦️ ClimaVue - Modern Weather Dashboard
 
-# live link 
-![ClimaVue Live Demo](https://neon-capybara-b374b2.netlify.app/)
 
+
+## 🔗 Live Demo
+
+You can check out the live version of the project [here](https://neon-capybara-b374b2.netlify.app/).
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
