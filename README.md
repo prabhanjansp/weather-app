@@ -1,12 +1,16 @@
 # 🌦️ ClimaVue - Modern Weather Dashboard
 
+# live link 
+![ClimaVue Live Demo](https://neon-capybara-b374b2.netlify.app/)
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 A sleek, responsive weather application built with React & Material-UI that delivers real-time weather data and forecasts with beautiful visualizations.
 
-![ClimaVue Screenshot](https://via.placeholder.com/800x400.png?text=ClimaVue+Screenshot) <!-- Replace with actual screenshot -->
+ <!-- Replace with actual screenshot -->
 
 ## ✨ Features
 
